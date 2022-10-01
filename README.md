@@ -1,6 +1,6 @@
 # Designathon_fundManagement
 
-
+https://adnan-faiz27.github.io/Designathon_fundManagement/
 
 Ist page is the login page which will allow students to create there own account , the backend can be easily integrated to the page.
 Home page shows the statistics of daily and monthly expenses which displays the chart and average amount spend on each commodity .
